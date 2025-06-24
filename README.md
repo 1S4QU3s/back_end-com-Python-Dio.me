@@ -1,5 +1,5 @@
 # back_end-com-Python-Dio.me
-Otimizando sistema bancário com funções Pyyhon
+Otimizando sistema bancário com funções Python
 
 # Sistema Bancário 
 
